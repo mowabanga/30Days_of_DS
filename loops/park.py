@@ -1,8 +1,7 @@
-age = 12
+height = input("How tall are you? ")
+height = int(height)
 
-if age < 4:
-    print("Your admission cost is $0.")
-elif age < 18:
-    print("Your admission cost is $5.")
+if height >= 36:
+    print("You're tall enough to ride!")
 else:
-    print("Your admission cost is $10")
+    print("\nGrow up!!")
