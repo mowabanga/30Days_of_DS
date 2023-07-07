@@ -1,0 +1,3 @@
+Machine Learning {tensorflow} seems to be corrupted on my machine. Or my pip installation is riddled with bugs? I have no idea, but I thought this cool txt file will look good somewhere in my github.
+
+Adios.
